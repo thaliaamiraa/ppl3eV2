@@ -1,6 +1,6 @@
 # Pertemuan 03
 
-# Bab 3 Blackbox Testing
+# Bab 5 Blackbox Testing
 
 ## Rangkuman Blackbox Testing
 Black Box Testing atau yang lebih sering dikenal dengan sebutan pengujian fungsional merupakan metode pengujian perangkat lunak yang 
