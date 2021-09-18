@@ -3,7 +3,10 @@
 ##Pengenalan Pengujian Perangkat Lunak
 
 Pengujian perangkat lunak merupakan tahapan yang paling penting dalam pengembangan software. 
-Sebagai tester, tester harus menemukan bug atau error pada software karena dengan adanya pengujian software, maka tester bisa membantu developer dalam memastikan bahwa software yang dibuat tidak mengalami bug atau error saat software sudah jadi. Ada 2 tipe pengujian software yaitu secara manual dan otomatis.
+Sebagai tester, tester harus menemukan bug atau error pada software karena dengan adanya pengujian software, maka tester bisa membantu developer dalam memastikan bahwa software yang dibuat tidak mengalami bug atau error saat software sudah jadi. 
+Ada 2 tipe pengujian software yaitu :
+1. secara manual 
+2. secara otomatis.
 
 ##Tugas Latihan
 
