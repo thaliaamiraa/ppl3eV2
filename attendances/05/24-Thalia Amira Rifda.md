@@ -51,3 +51,5 @@ Status : Berhasil
 
 ## Tugas 2- Automatic test menu
 Menginstall laravel cypress integration pada project laravel kita (https://github.com/laracasts/cypress). Kemudian dilanjutkan dengan pembuatan test case dan skenario test berdasar fitur yang sudah ada di dalam project laravel (satu mahasiswa satu fitur). Lakukan penguji fitur-fitur project laravel menggunakan cypress automatic test. 
+
+Terima Kasih

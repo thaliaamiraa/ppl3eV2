@@ -21,3 +21,5 @@ Perbaikan Minggu Depan :
 2. 1 anggota, 1 fitur
 3. 1 menu fitur terdapat CRUD
 4. Gunakan Db Refreshh (cy.refreshDatabase();) agar dapat melakukan CRUD pada saat automatic test
+
+Terima Kasih

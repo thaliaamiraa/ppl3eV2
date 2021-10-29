@@ -38,3 +38,4 @@ Project Laravel = laraschool
 | TC-05	| Uji coba menu Kategori Artikel |				
 | TC-06	| Uji coba logout |
 	
+Terima Kasih
